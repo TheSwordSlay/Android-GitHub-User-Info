@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="day_tab">#FEFAFD</color>
+    <color name="night_tab">#424242</color>
+    <color name="day_text">#FF000000</color>
+    <color name="night_text">#FFFFFFFF</color>
+</resources>
